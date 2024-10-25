@@ -1,0 +1,16 @@
+C:\Users\panso\source\repos\AlgorytmyTEST\bin\Debug\net8.0-windows\AlgorytmyTEST.exe
+C:\Users\panso\source\repos\AlgorytmyTEST\bin\Debug\net8.0-windows\AlgorytmyTEST.deps.json
+C:\Users\panso\source\repos\AlgorytmyTEST\bin\Debug\net8.0-windows\AlgorytmyTEST.runtimeconfig.json
+C:\Users\panso\source\repos\AlgorytmyTEST\bin\Debug\net8.0-windows\AlgorytmyTEST.dll
+C:\Users\panso\source\repos\AlgorytmyTEST\bin\Debug\net8.0-windows\AlgorytmyTEST.pdb
+C:\Users\panso\source\repos\AlgorytmyTEST\obj\Debug\net8.0-windows\AlgorytmyTEST.Form1.resources
+C:\Users\panso\source\repos\AlgorytmyTEST\obj\Debug\net8.0-windows\AlgorytmyTEST.csproj.GenerateResource.cache
+C:\Users\panso\source\repos\AlgorytmyTEST\obj\Debug\net8.0-windows\AlgorytmyTEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panso\source\repos\AlgorytmyTEST\obj\Debug\net8.0-windows\AlgorytmyTEST.AssemblyInfoInputs.cache
+C:\Users\panso\source\repos\AlgorytmyTEST\obj\Debug\net8.0-windows\AlgorytmyTEST.AssemblyInfo.cs
+C:\Users\panso\source\repos\AlgorytmyTEST\obj\Debug\net8.0-windows\AlgorytmyTEST.csproj.CoreCompileInputs.cache
+C:\Users\panso\source\repos\AlgorytmyTEST\obj\Debug\net8.0-windows\AlgorytmyTEST.dll
+C:\Users\panso\source\repos\AlgorytmyTEST\obj\Debug\net8.0-windows\refint\AlgorytmyTEST.dll
+C:\Users\panso\source\repos\AlgorytmyTEST\obj\Debug\net8.0-windows\AlgorytmyTEST.pdb
+C:\Users\panso\source\repos\AlgorytmyTEST\obj\Debug\net8.0-windows\AlgorytmyTEST.genruntimeconfig.cache
+C:\Users\panso\source\repos\AlgorytmyTEST\obj\Debug\net8.0-windows\ref\AlgorytmyTEST.dll

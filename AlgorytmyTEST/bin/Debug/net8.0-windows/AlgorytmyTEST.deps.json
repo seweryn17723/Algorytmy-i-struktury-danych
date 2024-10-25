@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AlgorytmyTEST/1.0.0": {
+        "runtime": {
+          "AlgorytmyTEST.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlgorytmyTEST/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
