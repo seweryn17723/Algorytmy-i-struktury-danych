@@ -1,0 +1,20 @@
+Node AddLast(int liczba){
+	var temp = new Node(liczba);
+	this.tail.next = tmp;
+	this.prev = this.tail;
+	this.tail = tmp;
+	this.count++;
+	return tmp;
+}
+
+AddFirst
+AddLast
+RemoveFirst
+RemoveLast
+Get(int liczba)	//liczone od 0
+ToString()
+
+
+
+
+
