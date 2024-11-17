@@ -12,7 +12,7 @@ AddLast
 RemoveFirst
 RemoveLast
 Get(int liczba)	//liczone od 0
-ToString() - łączenie elementów, np. data = 5, data = 10, data = 15, ma wyswietlic stringa 5 10 15
+ToString() - łączenie elementów, np. data = 5, data = 10, data = 15, ma wyswietlic stringa "5 10 15"
 
 
 
